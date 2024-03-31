@@ -16,8 +16,9 @@ interface MongooseConnection {
 let cached: MongooseConnection = (global as any).mongoose 
 if (!cached) { // If the Mongoose connection is not cached, initialize it
     cached = (global as any).mongoose = {
-        conn: null, promise: null
-    }
+        conn: null, 
+        promise: null,
+    };
 }
 
 // Function to connect to the MongoDB database
