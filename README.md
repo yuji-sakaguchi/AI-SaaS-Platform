@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ### Description
-This repository presents Imaginify, a Full Stack AI SaaS Platform, leveraging technologies such as React, Typescript, MongoDB, Next.js, Tailwind CSS, and Stripe. The platform integrates Cloudinary Artificial Intelligence's advanced processing capabilities with Stripe's payment gateway, enabling revenue generation and providing front-end users with the ability to seamlessly upload, analyze, and manipulate images within an impressive 0.4 seconds.
+This repository presents Imaginify, a Full Stack AI SaaS Platform, leveraging technologies such as React, Typescript, MongoDB, Next.js, Tailwind CSS, and Stripe. The platform integrates Cloudinary Artificial Intelligence's advanced processing capabilities with Stripe's payment gateway, enabling revenue generation and providing front-end users with the ability to seamlessly upload, analyze, and manipulate images within 4 seconds.
 
 ### Key Features:
 - Integration of Cloudinary AI and Stripe's payment gateway for enhanced functionality and revenue generation.
